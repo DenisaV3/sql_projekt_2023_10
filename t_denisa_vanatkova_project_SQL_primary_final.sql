@@ -60,5 +60,5 @@ LEFT JOIN t_prim_cast_jedna cj
     AND cj.payroll_year BETWEEN 2006 AND 2018;
 
 
- 
-
+ SELECT *
+ FROM t_denisa_vanatkova_project_SQL_primary_final;
