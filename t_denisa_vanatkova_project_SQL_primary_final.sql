@@ -1,3 +1,4 @@
+-- Discord name: denisa_97272
 
 -- primarni tabulka vytvorena z dvou pomocnych mezitabulek
 

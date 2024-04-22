@@ -1,3 +1,4 @@
+-- Discord name: denisa_97272
 
 -- sekundarni tabulka
 
